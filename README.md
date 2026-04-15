@@ -53,5 +53,7 @@ src/
    ```sql
    CREATE DATABASE edutrack_db;
 3.Open the project in IntelliJ IDEA
+
 4.Update your MySQL password in DBUtil.java
+
 5.Run EduTrackApp.java
