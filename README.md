@@ -22,11 +22,7 @@ It demonstrates real-world CRUD operations with database integration.
 ---
 
 ## 📂 Project Structure
-src/
-├── Student.java
-├── StudentRecordManager.java
-├── DBUtil.java
-└── EduTrackApp.java
+
 
 ---
 
@@ -52,8 +48,3 @@ src/
 2. Create a database:
    ```sql
    CREATE DATABASE edutrack_db;
-3.Open the project in IntelliJ IDEA
-
-4.Update your MySQL password in DBUtil.java
-
-5.Run EduTrackApp.java
