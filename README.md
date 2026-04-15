@@ -51,12 +51,10 @@ src/
 
 ## ▶️ How to Run
 
-1. Install MySQL Server  
+1. Install MySQL Server
 2. Create a database:
    ```sql
    CREATE DATABASE edutrack_db;
-3.Open the project in IntelliJ IDEA
-
-4.Update your MySQL password in DBUtil.java
-
-5.Run EduTrackApp.java
+3. Open the project in IntelliJ IDEA
+4. Update your MySQL password in DBUtil.java
+5. Run EduTrackApp.java
